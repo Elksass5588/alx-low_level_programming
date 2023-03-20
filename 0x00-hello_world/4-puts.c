@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main 
- * 
+ * main - out put String
+ *
  * Return: 0 (sucsess)
  **/
 int main(void)
