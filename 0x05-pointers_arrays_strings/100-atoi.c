@@ -21,7 +21,7 @@ int _atoi(char *s)
 		len++;
 
 	while (i < len && f == 0)
-	{		
+	{
 		if (s[i] == '-')
 			++d;
 
